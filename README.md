@@ -4,4 +4,4 @@
 
 * Enjoy
 
-
+This Landing Page is training us to use our current (fron-end) skills (HTML, CSS, Bootstrap...)

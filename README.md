@@ -1,7 +1,7 @@
-# Create a landing Page with our Current Skills
+# Landing Page
 
 * Go to https://mythplanding.herokuapp.com/
 
 * Enjoy
 
-This Landing Page is training us to use our current (fron-end) skills (HTML, CSS, Bootstrap...)
+*This Landing Page is training us to use our current front-end skills (HTML, CSS, Bootstrap...)* 

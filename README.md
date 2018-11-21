@@ -1,9 +1,5 @@
----
 
-
----
-
-<h1 Repo à corriger: semaine 7.1 et non 8</h1>
+<h1> Repo à corriger: semaine 7.1 et non 8</h1>
 <p>Le projet du jour consistait à manipuler du <strong>Jquery</strong> sans utiliser de bibliothèques extérieures.</p>
 <p><em>Ce projet est disponible à l’adresse suivante:</em> <a href="https://mythplanding.herokuapp.com/">https://mythplanding.herokuapp.com/</a></p>
 <p><em>En cas d’erreur <strong>Heroku</strong>, voici la marche à suivre:</em></p>
